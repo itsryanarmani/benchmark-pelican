@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-pelican",
+  "name": "io.github.itsryanarmani/benchmark-pelican",
   "description": "Score bird-on-bicycle SVG structure with a deterministic benchmark.",
   "version": "0.2.0",
   "repository": {
